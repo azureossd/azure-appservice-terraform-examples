@@ -16,3 +16,10 @@ Various Terraform examples for creating and deploying Azure App Service resource
 |    +-- windows-custom-image.tf
 ```
 
+**Instructions to run:**
+1. Download [Terraform](https://www.terraform.io/downloads).
+2. Log in with the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) and set the appropriate subscription.
+3. Run `terraform init`
+4. (optional) Run `terraform fmt` to format the `.tf` file if changes are made.
+5. Run `terraform apply` to apply and deploy the resources.
+
