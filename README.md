@@ -1,7 +1,7 @@
 # azure-appservice-terraform-examples
 Various Terraform examples for creating and deploying Azure App Service resources.
 
-```md
+```yaml
 # This directory contains an example for creating a Python 3.9 Linux App Service
 +-- linux-app-service
 |   +-- linux-app-service.tf
