@@ -23,3 +23,4 @@ Various Terraform examples for creating and deploying Azure App Service resource
 4. (optional) Run `terraform fmt` to format the `.tf` file if changes are made.
 5. Run `terraform apply` to apply and deploy the resources.
 
+View the documentation for the **azurerm provider** [here](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs).
